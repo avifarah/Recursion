@@ -6,7 +6,7 @@ There are five Github repositories that are linked:
 
 ### The PowerPoint Presentation
 
-[Recursion: Zero to Hero](https://github.com/avifarah/Recursion)
+[Recursion: Zero to Hero](Recursion.pdf)
 
 ### Code Examples (in C#)
 
