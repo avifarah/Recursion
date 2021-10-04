@@ -10,11 +10,11 @@ There are five Github repositories that are linked:
 
 ### Code Examples (in C#)
 
-[The stripped down version of non-tree recursive problems](https://github.com/avifarah/Recursion.Recursion-Stripped)<br />
-[The fully solved version of non-tree recursive problems](https://github.com/avifarah/Recursion.Recursion1)
+[Unsolved non-tree recursive problems](https://github.com/avifarah/Recursion.Recursion-Stripped)<br />
+[Fully solved non-tree recursive problems](https://github.com/avifarah/Recursion.Recursion1)
 
-[The stripped down version of binary tree recursive problems](https://github.com/avifarah/Recursion.TreeProcessing-Stripped)<br />
-[The fully solved version of binary tree recursive problems](https://github.com/avifarah/Recursion.TreeProcessing)
+[Unsolved binary tree recursive problems](https://github.com/avifarah/Recursion.TreeProcessing-Stripped)<br />
+[Fully solved binary tree recursive problems](https://github.com/avifarah/Recursion.TreeProcessing)
 
 ## Setup
 
